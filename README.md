@@ -1,4 +1,4 @@
-## REDCOCOA Github
+## REDCOCOA GitHub
 
 ![Logo](https://img.shields.io/badge/redcocoa-From%202025-blue)
 
