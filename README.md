@@ -1,5 +1,6 @@
-## Hi there 👋
-https://img.shields.io/badge/redcocoa-redcocoa-blue
+## REDCOCOA Github
+
+![Logo](https://img.shields.io/badge/redcocoa-redcocoa-blue)
 
 <!--
 **redcocoa/redcocoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
